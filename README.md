@@ -9,7 +9,7 @@ author: 22745131/Nakayama Kenta
 
 ## Files
 - .travis.yml
-  - travis filfe
+  - travis file
 - calc_GCD_test.sh
   - test file
 - calc_GCD.sh
