@@ -1,4 +1,0 @@
-language: bash
-script: # 下記のコマンドを実⾏
-- echo Travis CI test in .travis.yml
-- ./calc_GCD_test.sh
